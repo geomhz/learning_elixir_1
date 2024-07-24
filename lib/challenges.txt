@@ -1,0 +1,44 @@
+1 - Olá Mundo:
+Escreva um programa que imprime "Olá, Mundo!" no console.
+
+2 - Contagem de Letras:
+Crie uma função que recebe uma string e retorna o número de caracteres nela.
+
+3 - Fatorial:
+Implemente uma função que calcula o fatorial de um número inteiro positivo.
+
+4 - Números Primos:
+Crie uma função que verifica se um número é primo.
+
+5 - Sequência de Fibonacci:
+Escreva uma função que gera os primeiros n números da sequência de Fibonacci.
+
+6 - Soma de Lista:
+Crie uma função que recebe uma lista de números e retorna a soma de todos os elementos.
+
+7 - Maior Número em Lista:
+Implemente uma função que encontra o maior número em uma lista de inteiros.
+
+8 - Inverter String:
+Escreva uma função que inverte uma string.
+
+9 - Palíndromo:
+Crie uma função que verifica se uma string é um palíndromo.
+
+10 - Mapeamento de Lista:
+Implemente uma função que aplica uma função a cada elemento de uma lista e retorna a lista resultante.
+
+11 - Filtrar Lista:
+Crie uma função que filtra os elementos de uma lista com base em um predicado (ou seja, uma função que retorna true ou false).
+
+12 - Contagem de Palavras:
+Escreva uma função que recebe uma string e conta a frequência de cada palavra.
+
+13 - Ordenação de Lista:
+Implemente um algoritmo de ordenação (como quicksort ou mergesort) para ordenar uma lista de inteiros.
+
+14 - Merge de Listas:
+Crie uma função que une duas listas de maneira ordenada (intercalação de listas ordenadas).
+
+15 - Calculadora Simples:
+Implemente uma calculadora simples que suporte as operações básicas (soma, subtração, multiplicação e divisão).
